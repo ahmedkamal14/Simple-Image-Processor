@@ -2,6 +2,12 @@
 
 This Streamlit web app lets you upload an image and apply interactive filters and adjustments using OpenCV.
 
+## 📽 Demo
+
+![App Demo](./media/demo.gif)
+![Edge Detection](./media/demo.png)
+
+
 ---
 
 ## ✨ **Features**
